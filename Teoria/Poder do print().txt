@@ -1,0 +1,7 @@
+# Poder do print()
+
+n = input('Nome: ')
+print('Prazer em conhece-lo {:_^20}'.format(n)) *Posso colocar < ^ > (Esq. alinhado Dir.), quantos espaços quero e se quero completar com algo.
+
+>> Nome:  Vinicius
+>> Prazer em conhece-lo  ______Vinicius_______

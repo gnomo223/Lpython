@@ -1,0 +1,6 @@
+# Ordem de Precedência do Python
+
+1. ()
+2. **
+3. * / // %
+4. + -

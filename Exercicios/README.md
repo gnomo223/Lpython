@@ -18,3 +18,26 @@ Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e 
 
 ## Exercicio 6
 Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
+
+## Exercicio 7
+Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
+
+## Exercicio 8
+
+## Exercicio 9
+
+## Exercicio 10
+
+## Exercicio 11
+
+## Exercicio 12
+
+## Exercicio
+
+## Exercicio
+
+## Exercicio
+
+## Exercicio
+
+## Exercicio

@@ -23,6 +23,7 @@ Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadra
 Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
 
 ## Exercicio 8
+Escreva um programa que leia um valor em metros e o exiba convertido em centimentros e milimetros.
 
 ## Exercicio 9
 
